@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap lokasyonu
+Sitemap: https://www.devahastanesi.com/sitemap.xml
+
+# Yasaklanan dizinler (gerekirse eklenebilir)
+# Disallow: /admin/
+# Disallow: /api/
